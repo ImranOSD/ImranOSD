@@ -31,6 +31,7 @@
 - 🔧 Tools: Git, GitHub, VS Code, IntelliJ IDEA
 - 📚 Concepts: OOP, DSA, REST API
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImranOSD&show_icons=true&theme=tokyonight)
 ---
 
 ⭐ Thanks for visiting my profile!
