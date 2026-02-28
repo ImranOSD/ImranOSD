@@ -17,6 +17,9 @@
 - ⚡ Fun fact: I love building real-world backend systems!
 
 ---
+### 📫 Link 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imran-hasan-talukdar-87b52a288/)
 
 ### 🛠️ Skills
 
@@ -27,5 +30,5 @@
 - 📚 Concepts: OOP, DSA, REST API
 
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imran-hasan-talukdar-87b52a288/)
 ⭐ Thanks for visiting my profile!
