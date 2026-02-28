@@ -30,8 +30,7 @@
 - 🗄️ Database: MySQL
 - 🔧 Tools: Git, GitHub, VS Code, IntelliJ IDEA
 - 📚 Concepts: OOP, DSA, REST API
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImranOSD&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imranOSD&theme=tokyonight)
 ---
 
 ⭐ Thanks for visiting my profile!
