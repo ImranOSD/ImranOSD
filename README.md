@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Imran Hasan
 
-🎓  Bsc in CSE student at Prime University, Bangladesh   
+🎓  Bsc in CSE student at Prime University,Dhaka,Bangladesh   
 💻 Java Developer | Spring Boot Learner  
 🚀 Future Software Engineer  
 
